@@ -83,4 +83,4 @@ Alternatively, open it directly using the **"Open in Colab"** badge inside the r
 ---
 
 ## 👤 Author
-* **Zehra Dinçerz** — [GitHub Profile](https://github.com/zhrdnc)
+* **Zehra Dinçer** — [GitHub Profile](https://github.com/zhrdnc)
